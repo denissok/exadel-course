@@ -4,7 +4,7 @@ pragma solidity >=0.8.4;
 // import "@prb/contracts/token/erc20/ERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/utils/math/Math.sol";
-
+ 
 
 contract SwapPool is ERC20{
 
